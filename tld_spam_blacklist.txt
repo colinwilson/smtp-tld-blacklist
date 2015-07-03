@@ -21,3 +21,8 @@
 *@*.kim
 *@*.ru
 *@*.me
+*@*.space
+*@*.top
+*@*.co
+*@*.guru
+*@*.construction
