@@ -1,5 +1,6 @@
 *@*.work
 *@*.link
+*@*.science
 *@*.ml
 *@*.tk
 *@*.pw
@@ -17,3 +18,4 @@
 *@*.in
 *@*.us
 *@*.cc
+*@*.kim
