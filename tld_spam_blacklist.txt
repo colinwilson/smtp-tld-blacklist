@@ -24,12 +24,15 @@
 *@*.ninja
 *@*.pw
 *@*.rocks
+*@*.rs
 *@*.ru
 *@*.science
+*@*.se
 *@*.si
 *@*.space
 *@*.sucks
 *@*.tk
+*@*.tr
 *@*.top
 *@*.us
 *@*.work
