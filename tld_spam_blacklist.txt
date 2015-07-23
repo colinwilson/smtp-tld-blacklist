@@ -17,12 +17,15 @@
 *@*.id
 *@*.in
 *@*.info
+*@*.ir
 *@*.kim
 *@*.link
 *@*.me
+*@*.mk
 *@*.ml
 *@*.ninja
 *@*.pw
+*@*.ps
 *@*.rocks
 *@*.rs
 *@*.ru
