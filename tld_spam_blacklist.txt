@@ -24,6 +24,7 @@
 *@*.mk
 *@*.ml
 *@*.ninja
+*@*.party
 *@*.pw
 *@*.ps
 *@*.rocks
