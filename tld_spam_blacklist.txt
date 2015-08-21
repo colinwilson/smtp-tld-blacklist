@@ -38,6 +38,7 @@
 *@*.tk
 *@*.tr
 *@*.top
+*@*.uno
 *@*.us
 *@*.work
 *@*.xyz
