@@ -40,5 +40,6 @@
 *@*.top
 *@*.uno
 *@*.us
+*@*.win
 *@*.work
 *@*.xyz
