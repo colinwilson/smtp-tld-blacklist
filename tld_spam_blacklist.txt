@@ -11,6 +11,7 @@
 *@*.cricket
 *@*.cz
 *@*.eu
+*@*.faith
 *@*.ga
 *@*.gq
 *@*.guru
