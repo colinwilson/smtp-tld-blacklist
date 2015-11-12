@@ -28,6 +28,7 @@
 *@*.party
 *@*.pw
 *@*.ps
+*@*.racing
 *@*.rocks
 *@*.rs
 *@*.ru
