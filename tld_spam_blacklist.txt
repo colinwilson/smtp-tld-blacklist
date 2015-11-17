@@ -10,6 +10,7 @@
 *@*.country
 *@*.cricket
 *@*.cz
+*@*.date
 *@*.eu
 *@*.faith
 *@*.ga
