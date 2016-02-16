@@ -28,6 +28,7 @@
 *@*.ml
 *@*.ninja
 *@*.party
+*@*.pro
 *@*.pw
 *@*.ps
 *@*.racing
