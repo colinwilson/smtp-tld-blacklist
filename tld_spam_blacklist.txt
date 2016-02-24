@@ -23,6 +23,7 @@
 *@*.ir
 *@*.kim
 *@*.link
+*@*.loan
 *@*.me
 *@*.mk
 *@*.ml
