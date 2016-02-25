@@ -1,5 +1,7 @@
+*@*.accountant
 *@*.ar
 *@*.asia
+*@*.bid
 *@*.biz
 *@*.cc
 *@*.cf
