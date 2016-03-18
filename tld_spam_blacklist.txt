@@ -45,6 +45,7 @@
 *@*.space
 *@*.sucks
 *@*.tk
+*@*.topica.com
 *@*.tr
 *@*.top
 *@*.uno
