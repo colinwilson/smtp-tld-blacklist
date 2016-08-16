@@ -43,6 +43,7 @@
 *@*.se
 *@*.si
 *@*.space
+*@*.stream
 *@*.sucks
 *@*.tk
 *@*.tr
