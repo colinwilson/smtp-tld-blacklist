@@ -21,6 +21,7 @@
 *@*.guru
 *@*.id
 *@*.in
+*@*.in.net
 *@*.info
 *@*.ir
 *@*.kim
