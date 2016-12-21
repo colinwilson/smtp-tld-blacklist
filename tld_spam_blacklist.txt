@@ -21,6 +21,7 @@
 *@*.guru
 *@*.id
 *@*.in
+*@*.in.net
 *@*.info
 *@*.ir
 *@*.kim
@@ -43,6 +44,7 @@
 *@*.se
 *@*.si
 *@*.space
+*@*.stream
 *@*.sucks
 *@*.tk
 *@*.topica.com
