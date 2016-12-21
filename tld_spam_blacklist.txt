@@ -17,6 +17,7 @@
 *@*.eu
 *@*.faith
 *@*.ga
+*@*.gdn
 *@*.gq
 *@*.guru
 *@*.id
@@ -31,6 +32,7 @@
 *@*.mk
 *@*.ml
 *@*.ninja
+*@*.online
 *@*.party
 *@*.pro
 *@*.pw
